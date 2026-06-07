@@ -6,8 +6,8 @@
       "packageName": "ReunionDiariaCAR",
       "extensionId": "foglghanhigjgpcgnjhblmeddcolcohd",
       "version": "1.0.1",
-      "githubRepo": "jpernas75/actualizaciones-chrome",
-      "releaseTag": "v{version}",
+      "githubRepo": "jpernas75/CursorAI",
+      "releaseTag": "ReunionDiariaCAR-v{version}",
       "zipName": "ReunionDiariaCAR-v{version}.zip"
     },
     {
