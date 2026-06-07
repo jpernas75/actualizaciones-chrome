@@ -1,0 +1,30 @@
+{
+  "updateUrl": "https://jpernas75.github.io/actualizaciones-chrome/updates.xml",
+  "defaultGithubRepo": "jpernas75/CursorAI",
+  "extensions": [
+    {
+      "packageName": "ReunionDiariaCAR",
+      "extensionId": "foglghanhigjgpcgnjhblmeddcolcohd",
+      "version": "1.0.1",
+      "githubRepo": "jpernas75/actualizaciones-chrome",
+      "releaseTag": "v{version}",
+      "zipName": "ReunionDiariaCAR-v{version}.zip"
+    },
+    {
+      "packageName": "ResumenORCAR",
+      "extensionId": "fgcoccfmoihgnjlcmnoloobalhdlilcc",
+      "version": "1.1.3",
+      "githubRepo": "jpernas75/CursorAI",
+      "releaseTag": "ResumenORCAR-v{version}",
+      "zipName": "ResumenORCAR-v{version}.zip"
+    },
+    {
+      "packageName": "PrediagnosticoGPTCAR",
+      "extensionId": "pcdeflcaahoejenjlgmbglacacmhicod",
+      "version": "1.1.0",
+      "githubRepo": "jpernas75/CursorAI",
+      "releaseTag": "PrediagnosticoGPTCAR-v{version}",
+      "zipName": "PrediagnosticoGPTCAR-v{version}.zip"
+    }
+  ]
+}
