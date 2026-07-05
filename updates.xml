@@ -9,4 +9,7 @@
   <app appid='pcdeflcaahoejenjlgmbglacacmhicod'>
     <updatecheck codebase='https://github.com/jpernas75/CursorAI/releases/download/PrediagnosticoGPTCAR-v1.1.0/PrediagnosticoGPTCAR-v1.1.0.zip' version='1.1.0' />
   </app>
+  <app appid='pnklmoilnbcojlmicbejnknaplbdjccc'>
+    <updatecheck codebase='https://github.com/jpernas75/CursorAI/releases/download/ReporteCAR-v1.0/ReporteCAR-v1.0.zip' version='1.0' />
+  </app>
 </gupdate>
