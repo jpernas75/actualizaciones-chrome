@@ -13,7 +13,7 @@
     {
       "packageName": "ResumenORCAR",
       "extensionId": "fgcoccfmoihgnjlcmnoloobalhdlilcc",
-      "version": "1.1.3",
+      "version": "1.1.7",
       "githubRepo": "jpernas75/CursorAI",
       "releaseTag": "ResumenORCAR-v{version}",
       "zipName": "ResumenORCAR-v{version}.zip"
@@ -25,6 +25,22 @@
       "githubRepo": "jpernas75/CursorAI",
       "releaseTag": "PrediagnosticoGPTCAR-v{version}",
       "zipName": "PrediagnosticoGPTCAR-v{version}.zip"
+    },
+    {
+      "packageName": "AvisosCAR",
+      "extensionId": "REEMPLAZAR_TRAS_APLICAR_CLAVE",
+      "version": "1.1.11",
+      "githubRepo": "jpernas75/CursorAI",
+      "releaseTag": "AvisosCAR-v{version}",
+      "zipName": "AvisosCAR-v{version}.zip"
+    },
+    {
+      "packageName": "ReporteCAR",
+      "extensionId": "pnklmoilnbcojlmicbejnknaplbdjccc",
+      "version": "1.0",
+      "githubRepo": "jpernas75/CursorAI",
+      "releaseTag": "ReporteCAR-v{version}",
+      "zipName": "ReporteCAR-v{version}.zip"
     }
   ]
 }
