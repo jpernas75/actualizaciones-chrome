@@ -4,7 +4,7 @@
     <updatecheck codebase='https://github.com/jpernas75/CursorAI/releases/download/ReunionDiariaCAR-v1.0.1/ReunionDiariaCAR-v1.0.1.zip' version='1.0.1' />
   </app>
   <app appid='fgcoccfmoihgnjlcmnoloobalhdlilcc'>
-    <updatecheck codebase='https://github.com/jpernas75/CursorAI/releases/download/ResumenORCAR-v1.1.8/ResumenORCAR-v1.1.8.zip' version='1.1.8' />
+    <updatecheck codebase='https://github.com/jpernas75/CursorAI/releases/download/ResumenORCAR-v1.1.9/ResumenORCAR-v1.1.9.zip' version='1.1.9' />
   </app>
   <app appid='pcdeflcaahoejenjlgmbglacacmhicod'>
     <updatecheck codebase='https://github.com/jpernas75/CursorAI/releases/download/PrediagnosticoGPTCAR-v1.1.0/PrediagnosticoGPTCAR-v1.1.0.zip' version='1.1.0' />
