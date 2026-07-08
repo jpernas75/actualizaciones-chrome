@@ -14,10 +14,10 @@
       "packageName": "ResumenORCAR",
       "extensionId": "fgcoccfmoihgnjlcmnoloobalhdlilcc",
       "version": "1.1.10",
-      "githubRepo": "jpernas75/CursorAI",
+      "githubRepo": "jpernas75/ResumenORCAR",
       "releaseTag": "ResumenORCAR-v{version}",
       "zipName": "ResumenORCAR-v{version}.zip",
-      "distribution": "public-pages"
+      "distribution": "github-release"
     },
     {
       "packageName": "PrediagnosticoGPTCAR",
