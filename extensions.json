@@ -13,7 +13,7 @@
     {
       "packageName": "ResumenORCAR",
       "extensionId": "fgcoccfmoihgnjlcmnoloobalhdlilcc",
-      "version": "1.1.10",
+      "version": "1.1.11",
       "githubRepo": "jpernas75/ResumenORCAR",
       "releaseTag": "ResumenORCAR-v{version}",
       "zipName": "ResumenORCAR-v{version}.zip",
